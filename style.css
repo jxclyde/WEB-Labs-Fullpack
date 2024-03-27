@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
 
+/* Here we have all the main styling for Home page and Burger Dropdown Menu( navigation)*/
 *{
     margin: 0;
     padding: 0;
@@ -329,8 +330,6 @@ label{
     .content .info p{
         font-size: 14px;
     }
-
-     /* Adjustments for other main sections */
      .game-to-play .content,
      .game-recommendation .content,
      .game-leaderboards .content {
