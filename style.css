@@ -472,6 +472,11 @@ label{
     margin-top: 40px;
 }
 
+.subscription-section:hover{
+    background-color: #cde1f8;
+    transition: background-color 0.5s;
+}
+
 .subscription-section {
     text-align: center; /* Center the content within each subscription block */
     padding: 20px;
@@ -499,7 +504,7 @@ label{
 }
 
 .subscribe-now-btn:hover {
-    background-color: #45a049;
+    background-color: #257c2a;
 }
 
 
