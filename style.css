@@ -417,7 +417,7 @@ label{
 }
 
 
-/* styles for sign up page*/
+/* Styles for sign up page*/
 
 .form-group {
     position: relative;
@@ -478,17 +478,17 @@ label{
 }
 
 .subscription-section {
-    text-align: center; /* Center the content within each subscription block */
+    text-align: center; 
     padding: 20px;
     background-color: #fff;
     border-radius: 10px;
     flex: 1;
     margin: 0 10px;
-    position: relative; /* Add position relative to handle absolute positioning of buttons */
+    position: relative; 
 }
 
 .subscribe-now-btn {
-    display: inline-block; /* Change display to inline-block */
+    display: inline-block; 
     padding: 10px 20px;
     background-color: #4CAF50;
     color: #fff;
@@ -497,10 +497,10 @@ label{
     cursor: pointer;
     transition: background-color 0.3s;
     margin-top: 50px;
-    position: absolute; /* Position the button absolutely */
-    bottom: 20px; /* Adjust the distance from the bottom */
-    left: 50%; /* Move the button to the center horizontally */
-    transform: translateX(-50%); /* Center the button horizontally */
+    position: absolute; 
+    bottom: 20px; 
+    left: 50%; 
+    transform: translateX(-50%); 
 }
 
 .subscribe-now-btn:hover {
